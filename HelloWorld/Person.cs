@@ -1,4 +1,4 @@
-namespace Classes; // What are namespaces?
+namespace Classes;
 
 public class Person {
     public int Age { get; }
